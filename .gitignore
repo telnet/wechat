@@ -1,5 +1,3 @@
-/wechat/WebRoot/WEB-INF/classes
-/wechat/.settings
-/wechat/*.classpath
-/wechat/*.project
+/.settings
+/*.classpath
 /*.project
